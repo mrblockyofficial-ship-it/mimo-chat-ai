@@ -1,0 +1,5 @@
+{
+  "name": "MimoChat AI",
+  "description": "A sleek, ChatGPT-like AI chatbot interface using Xiaomi: MiMo-V2-Flash (free) via OpenRouter.",
+  "requestFramePermissions": []
+}
